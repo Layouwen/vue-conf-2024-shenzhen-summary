@@ -277,4 +277,4 @@ class: text-center
 
 # Thanks
 
-[https://github.com/layouwen](https://github.com/layouwen)
+[https://github.com/Layouwen/vue-conf-2024-shenzhen-summary](https://github.com/Layouwen/vue-conf-2024-shenzhen-summary)
