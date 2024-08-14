@@ -1,11 +1,11 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Vue Conf 2024 Shenzhen Summary
 
-To start the slide show:
+English | [简体中文](./README.zh-CN.md)
 
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
+## Introduction
 
-Edit the [slides.md](./slides.md) to see the changes.
+Summarize the key technical aspects of the meeting for internal company training.
 
-Learn more about Slidev on [documentations](https://sli.dev/).
+## Preview
+
+[https://layouwen.github.io/vue-conf-2024-shenzhen-summary/](https://layouwen.github.io/vue-conf-2024-shenzhen-summary/)
